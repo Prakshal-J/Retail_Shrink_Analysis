@@ -1,0 +1,106 @@
+store_id,subcategory,total_sales,total_shrink,shrink_rate
+S001,Deli Bread,931.0,435.0,46.7
+S001,Cakes,890.0,387.0,43.5
+S001,Pastries,1011.0,397.0,39.3
+S001,Bread,1178.0,418.0,35.5
+S001,Leafy Greens,737.0,220.0,29.9
+S001,Tomatoes,245.0,73.0,29.8
+S001,Bananas,1112.0,315.0,28.3
+S001,Apples,508.0,143.0,28.1
+S001,Citrus,1277.0,337.0,26.4
+S001,Shellfish,1534.0,264.0,17.2
+S001,Smoked Seafood,2245.0,338.0,15.1
+S001,Fresh Fish,1232.0,182.0,14.8
+S001,Pork,1479.0,153.0,10.3
+S001,Beef,1326.0,132.0,10.0
+S001,Chicken,791.0,76.0,9.6
+S001,Prepared Meat,1395.0,127.0,9.1
+S001,Milk,1400.0,74.0,5.3
+S001,Yogurt,817.0,42.0,5.1
+S001,Butter,1307.0,65.0,5.0
+S001,Cheese,1427.0,72.0,5.0
+S001,Cereal,2047.0,45.0,2.2
+S001,Beverages,1894.0,36.0,1.9
+S001,Snacks,1552.0,27.0,1.7
+S001,Canned,1418.0,22.0,1.6
+S001,Frozen Vegetables,1815.0,29.0,1.6
+S001,Ice Cream,1452.0,20.0,1.4
+S001,Frozen Meals,2342.0,31.0,1.3
+S001,Baby Formula,1676.0,6.0,0.4
+S001,Cosmetics,1184.0,2.0,0.2
+S001,Cleaning,2044.0,2.0,0.1
+S001,Kitchenware,1708.0,2.0,0.1
+S001,Batteries,1787.0,1.0,0.1
+S001,Toiletries,1140.0,1.0,0.1
+S001,Razors,1651.0,2.0,0.1
+S001,Seasonal,1465.0,0.0,0.0
+S002,Cakes,831.0,369.0,44.4
+S002,Deli Bread,1099.0,462.0,42.0
+S002,Bread,1474.0,590.0,40.0
+S002,Pastries,1474.0,564.0,38.3
+S002,Tomatoes,206.0,72.0,35.0
+S002,Apples,417.0,128.0,30.7
+S002,Bananas,1197.0,335.0,28.0
+S002,Leafy Greens,737.0,200.0,27.1
+S002,Citrus,1508.0,403.0,26.7
+S002,Shellfish,1439.0,235.0,16.3
+S002,Smoked Seafood,2746.0,387.0,14.1
+S002,Fresh Fish,1394.0,191.0,13.7
+S002,Prepared Meat,1406.0,154.0,11.0
+S002,Chicken,774.0,81.0,10.5
+S002,Pork,1601.0,153.0,9.6
+S002,Beef,1587.0,151.0,9.5
+S002,Butter,1706.0,98.0,5.7
+S002,Milk,1757.0,92.0,5.2
+S002,Cheese,1535.0,78.0,5.1
+S002,Yogurt,1034.0,49.0,4.7
+S002,Canned,1379.0,28.0,2.0
+S002,Frozen Vegetables,1820.0,31.0,1.7
+S002,Snacks,1703.0,29.0,1.7
+S002,Beverages,1761.0,26.0,1.5
+S002,Cereal,1466.0,20.0,1.4
+S002,Ice Cream,1487.0,20.0,1.3
+S002,Frozen Meals,1715.0,21.0,1.2
+S002,Kitchenware,1938.0,3.0,0.2
+S002,Cosmetics,1439.0,3.0,0.2
+S002,Toiletries,1261.0,3.0,0.2
+S002,Razors,1659.0,3.0,0.2
+S002,Cleaning,1637.0,2.0,0.1
+S002,Seasonal,1189.0,1.0,0.1
+S002,Batteries,1750.0,0.0,0.0
+S002,Baby Formula,1586.0,0.0,0.0
+S003,Cakes,927.0,395.0,42.6
+S003,Deli Bread,1175.0,456.0,38.8
+S003,Bread,1576.0,583.0,37.0
+S003,Leafy Greens,637.0,230.0,36.1
+S003,Pastries,1068.0,370.0,34.6
+S003,Bananas,1177.0,378.0,32.1
+S003,Citrus,1337.0,360.0,26.9
+S003,Apples,551.0,142.0,25.8
+S003,Tomatoes,468.0,116.0,24.8
+S003,Smoked Seafood,2241.0,355.0,15.8
+S003,Fresh Fish,910.0,142.0,15.6
+S003,Shellfish,1935.0,295.0,15.2
+S003,Beef,1405.0,163.0,11.6
+S003,Prepared Meat,1493.0,154.0,10.3
+S003,Pork,1607.0,154.0,9.6
+S003,Chicken,933.0,88.0,9.4
+S003,Cheese,1249.0,71.0,5.7
+S003,Butter,1733.0,83.0,4.8
+S003,Milk,1666.0,72.0,4.3
+S003,Yogurt,853.0,31.0,3.6
+S003,Beverages,1800.0,35.0,1.9
+S003,Snacks,1511.0,29.0,1.9
+S003,Cereal,1597.0,27.0,1.7
+S003,Frozen Meals,1988.0,29.0,1.5
+S003,Canned,1678.0,24.0,1.4
+S003,Ice Cream,1483.0,19.0,1.3
+S003,Frozen Vegetables,1730.0,14.0,0.8
+S003,Kitchenware,1826.0,3.0,0.2
+S003,Baby Formula,1724.0,4.0,0.2
+S003,Cleaning,1735.0,1.0,0.1
+S003,Razors,1652.0,2.0,0.1
+S003,Seasonal,1528.0,2.0,0.1
+S003,Toiletries,1574.0,2.0,0.1
+S003,Cosmetics,1642.0,2.0,0.1
+S003,Batteries,1730.0,0.0,0.0

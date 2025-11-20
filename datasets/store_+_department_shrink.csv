@@ -1,0 +1,28 @@
+store_id,department,total_sales,total_shrink,shrink_rate
+S001,Bakery,4010.0,1637.0,40.8
+S001,Produce,3879.0,1088.0,28.0
+S001,Seafood,5011.0,784.0,15.6
+S001,Meat,4991.0,488.0,9.8
+S001,Dairy,4951.0,253.0,5.1
+S001,Grocery,6911.0,130.0,1.9
+S001,Frozen,5609.0,80.0,1.4
+S001,Health & Beauty,5651.0,11.0,0.2
+S001,General Merchandise,7004.0,5.0,0.1
+S002,Bakery,4878.0,1985.0,40.7
+S002,Produce,4065.0,1138.0,28.0
+S002,Seafood,5579.0,813.0,14.6
+S002,Meat,5368.0,539.0,10.0
+S002,Dairy,6032.0,317.0,5.3
+S002,Grocery,6309.0,103.0,1.6
+S002,Frozen,5022.0,72.0,1.4
+S002,Health & Beauty,5945.0,9.0,0.2
+S002,General Merchandise,6514.0,6.0,0.1
+S003,Bakery,4746.0,1804.0,38.0
+S003,Produce,4170.0,1226.0,29.4
+S003,Seafood,5086.0,792.0,15.6
+S003,Meat,5438.0,559.0,10.3
+S003,Dairy,5501.0,257.0,4.7
+S003,Grocery,6586.0,115.0,1.7
+S003,Frozen,5201.0,62.0,1.2
+S003,Health & Beauty,6592.0,10.0,0.2
+S003,General Merchandise,6819.0,6.0,0.1
