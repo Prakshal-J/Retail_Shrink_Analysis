@@ -371,6 +371,10 @@ The following visualizations were created in *Power BI* using the exported CSV r
 - *Subcategory-Level Shrink* – Analysis by product subcategory.  
 - *Monthly Trend* – Line chart showing shrink trends over the 3 months.
 
+<img width="1291" height="722" alt="image" src="https://github.com/user-attachments/assets/19141da7-d742-4fa3-aea0-8ccc5c0f0c38" />
+
+<img width="1281" height="693" alt="image" src="https://github.com/user-attachments/assets/9238f225-0b2a-4581-8ae5-996d0cdd7f83" />
+
 ---
 
 ## Recommendations
